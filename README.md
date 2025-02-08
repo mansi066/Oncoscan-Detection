@@ -23,15 +23,7 @@ OncoScan is a web-based platform designed to provide AI-assisted cancer risk ass
 - *Easy Navigation & Accessibility*: Optimized for seamless browsing across all devices.
 - *Open-Source & Collaborative*: Hosted on GitHub for community-driven improvements and contributions.
 
-## 📂 Project Structure
 
-OncoScan/
-│── index.html         # Main webpage
-│── styles.css         # Custom styling
-│── script.js          # JavaScript functionality
-│── assets/            # Images, icons, and other media
-│── chatbot/           # AI chatbot integration files
-│── README.md          # Project documentation
 
 
 ## 💡 Getting Started
